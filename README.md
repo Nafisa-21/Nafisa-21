@@ -2,7 +2,7 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am passionate about exploring new frontiers in technology, with a special focus on machine learning, control systems, metamaterials, and data communications.\
+💡 &nbsp;I am passionate about technology, focusing on machine learning, control systems, metamaterials, and data communications.\
 🎓 &nbsp;I recently completed my BSc in Electrical and Electronic Engineering (EEE) from RUET.\
 👀 &nbsp;My current interests include advancing in machine learning techniques and their applications.\
 🤝 &nbsp;I am looking to collaborate on projects that apply ML to control systems, metamaterials, or data communication technologies.\
