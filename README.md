@@ -14,7 +14,6 @@
 
 - **Languages & Programming**: MATLAB, C, Python, Mathematica  
 - **Simulation & Design**: Simulink, NI Multisim, CST, AutoCAD  
-- **Productivity**: Word, Excel, PowerPoint, LaTeX  
 - **PLC Programming**: Siemens LOGO! Soft Comfort  
 
 ### My Projects
