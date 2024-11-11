@@ -8,7 +8,7 @@
 🤝 &nbsp;I am looking to collaborate on projects that apply ML to control systems, metamaterials, or data communication technologies.\
 ✉️ &nbsp;Feel free to reach out via email: anjumnafisa.ruet@gmail.com.
 
-<img align="right" alt="GIF" src="https://github.com/nafisa-anjum/nafisa-anjum/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="PNG Illustration" src="https://github.com/Nafisa-21/Nafisa-21/blob/main/n.png?raw=true" width="500" height="320" />
 
 ### Skills & Tools
 
