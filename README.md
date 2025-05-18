@@ -6,7 +6,7 @@
 🎓 &nbsp;I recently completed my BSc in Electrical and Electronic Engineering (EEE) from RUET.\
 👀 &nbsp;My current interests include advancing in machine learning techniques and their applications.\
 🤝 &nbsp;I am looking to collaborate on projects that apply ML to control systems, metamaterials, or data communication technologies.\
-✉️ &nbsp;Feel free to reach out via email: anjumnafisa.ruet@gmail.com.
+✉️ &nbsp;Feel free to reach out via email: nafisaanjum9999@gmail.com.
 
 <img align="right" alt="PNG Illustration" src="https://github.com/Nafisa-21/Nafisa-21/blob/main/n.png?raw=true" width="500" height="320" />
 
