@@ -6,7 +6,7 @@
 🎓 &nbsp;I completed my BSc in Electrical and Electronic Engineering from RUET.\
 🔍 &nbsp;My interests include Nanomaterials, machine learning, control systems, and data communication.\
 📚 &nbsp;Published research in IEEE NANO 2025 and ICCIT, and actively expanding my work in intelligent systems.\
-🤝 &nbsp;Looking for research or industry collaborations in AI, control, or physics-based simulations.\
+🤝 &nbsp;Looking for research or industry collaborations in Nanoelectronics, AI, control, or physics-based simulations.\
 ✉️ &nbsp;Reach me at: nafisaanjum9999@gmail.com
 
 <img align="right" alt="PNG Illustration" src="https://github.com/Nafisa-21/Nafisa-21/blob/main/n.png?raw=true" width="500" height="320" />
