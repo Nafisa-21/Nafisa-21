@@ -5,7 +5,7 @@
 💡 &nbsp;EEE graduate passionate about applying AI and data science to solve engineering problems.\
 🎓 &nbsp;I completed my BSc in Electrical and Electronic Engineering from RUET.\
 🔍 &nbsp;My interests include Nanomaterials, machine learning, control systems, and data communication.\
-📚 &nbsp;Published research in IEEE and ICCIT, and actively expanding my work in intelligent systems.\
+📚 &nbsp;Published research in IEEE NANO 2025 and ICCIT, and actively expanding my work in intelligent systems.\
 🤝 &nbsp;Looking for research or industry collaborations in AI, control, or physics-based simulations.\
 ✉️ &nbsp;Reach me at: nafisaanjum9999@gmail.com
 
